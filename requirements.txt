@@ -1,7 +1,8 @@
-pandas
 streamlit
+pandas
 scikit-learn
 nltk
 matplotlib
 seaborn
 wordcloud
+altair<5

@@ -79,10 +79,10 @@ if st.button("Analyze Sentiment"):
     st.subheader("Predicted Sentiment:")
 
     if prediction == "Positive":
-        st.success("Positive 😊")
+        st.success("Positive ")
 
     elif prediction == "Negative":
-        st.error("Negative 😡")
+        st.error("Negative ")
 
     else:
-        st.warning("Neutral 😐")
+        st.warning("Neutral ")
